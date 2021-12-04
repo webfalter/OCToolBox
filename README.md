@@ -11,5 +11,5 @@ Credits
 * [Entwicklern von OpenCore](https://github.com/acidanthera) & [Clover](https://github.com/CloverHackyColor/CloverBootloader)
 * [Entwicklern von gfxutil](https://github.com/acidanthera/gfxutil)
 * [Entwicklern von macserial](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/macserial)
-* Cobanramo Hackintosh-Forum für die Idee und Exel Datei
+* Cobanramo Hackintosh-Forum für die Idee und Excel Datei
 * The OSx86-Gang beim Input & fleißigen Testen

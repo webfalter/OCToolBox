@@ -6,9 +6,13 @@
 
 ![](./img/icon.png)
 
+### Letzter Stand
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
+### App getestet
+[![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
 
-Credits
+### Credits
 * [Entwicklern von OpenCore](https://github.com/acidanthera) & [Clover](https://github.com/CloverHackyColor/CloverBootloader)
 * [Entwicklern von gfxutil](https://github.com/acidanthera/gfxutil)
 * [Entwicklern von macserial](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/macserial)

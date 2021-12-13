@@ -6,11 +6,24 @@
 
 ![](./img/icon.png)
 
-### Letzter Stand
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+### OCToolBox OC Config Letzter Stand [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
-### App getestet
-[![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
+### Unterstützt ab v.0.8.2
+
+| Specifications | Detail                                           |
+| ------------------- | ------------------------------------------- |
+| SMBios |  |
+| Scan Policy |  |
+| Expose Sensitive Data |  |
+| Picker Attributes |  |
+| Target | |
+| SIP | |
+| OpenLinuxBoot | |
+| Audio | |
+
+
+### OCToolBox getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
+
 
 ### Credits
 * [Entwicklern von OpenCore](https://github.com/acidanthera) & [Clover](https://github.com/CloverHackyColor/CloverBootloader)

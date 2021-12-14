@@ -6,9 +6,7 @@
 
 ![](./img/icon.png)
 
-### OCToolBox OC Config Letzter Stand [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
-
-### Unterstützt ab v.0.8.2
+### Abgleich ab v.0.8.2 OC Config > [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 | Specifications | Detail                                           |
 | ------------------- | ------------------------------------------- |
@@ -22,7 +20,7 @@
 | Audio | |
 
 
-### OCToolBox getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
+### Getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
 
 
 ### Credits

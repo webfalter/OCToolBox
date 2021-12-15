@@ -4,7 +4,7 @@
 [![download-badge](https://img.shields.io/github/downloads/webfalter/OCToolBox/total.svg?style=flat-square "Download status")](https://github.com/webfalter/OCToolBox/releases/latest "Download status")
 [![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg)](https://www.paypal.com/paypalme/webfalter)
 
-![](./img/icon.png)
+![](./img/info.png)
 
 ### Abgleich ab v.0.8.2 OC Config > [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 

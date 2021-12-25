@@ -8,16 +8,16 @@
 
 ### Abgleich ab v.0.8.2 OC Config > [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
-| Specifications | Detail                                           |
-| ------------------- | ------------------------------------------- |
-| SMBios |  |
-| Scan Policy |  |
-| Expose Sensitive Data |  |
-| Picker Attributes |  |
-| Target | |
-| SIP | |
-| OpenLinuxBoot | |
-| Audio | |
+| Menü | | | |
+| ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
+| SMBios | | | | |
+| Security | Scan Policy |  OpenCore Menu Password | Vault |
+| Expose Sensitive Data |  | | | |
+| Picker Attributes |  | | | |
+| Target | | | | |
+| SIP | | | | |
+| OpenLinuxBoot | | | | |
+| Device | Audio| Grafik | |
 
 
 ### Getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)

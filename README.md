@@ -6,11 +6,11 @@
 
 ![](./img/info.png)
 
-### OCToolBox > v.0.8.2 == [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+# Supported
+### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+### [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
 
-### Getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
-
-### Nächste Version
+# New Beta v0.8.6
 | Menü | | | |
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
 | SMBios | | | | |
@@ -22,7 +22,7 @@
 | OpenLinuxBoot | | | | |
 | Device | Audio| Grafik | |
 
-
+#
 ### Credits
 * [Entwicklern von OpenCore](https://github.com/acidanthera) & [Clover](https://github.com/CloverHackyColor/CloverBootloader)
 * [Entwicklern von gfxutil](https://github.com/acidanthera/gfxutil)

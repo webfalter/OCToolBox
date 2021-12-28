@@ -6,8 +6,11 @@
 
 ![](./img/info.png)
 
-### Abgleich ab v.0.8.2 OC Config > [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+### OCToolBox > v.0.8.2 OC == [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
+### Getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
+
+### Nächste Version
 | Menü | | | |
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
 | SMBios | | | | |
@@ -18,9 +21,6 @@
 | SIP | | | | |
 | OpenLinuxBoot | | | | |
 | Device | Audio| Grafik | |
-
-
-### Getestet [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
 
 
 ### Credits

@@ -1,4 +1,4 @@
-# OCToolBox - Calculate Tool for OpenCore config.plist 
+# OCToolBox - Calculate Tool for OpenCore
 
 [![GitHub release](https://img.shields.io/github/release/webfalter/OCToolBox?include_prereleases=&sort=semver&color=blue)](https://github.com/webfalter/OCToolBox/releases/)
 [![download-badge](https://img.shields.io/github/downloads/webfalter/OCToolBox/total.svg?style=flat-square "Download status")](https://github.com/webfalter/OCToolBox/releases/latest "Download status")
@@ -8,9 +8,9 @@
 
 # Supported
 ### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
-### [![MacOS version](https://img.shields.io/badge/Monterey-12.0.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.1-informational.svg)](https://www.apple.com/macos)
+### [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) 
 
-# New Beta v0.8.6
+# Next Beta v0.8.6
 | Menü | | | |
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
 | SMBios | | | | |

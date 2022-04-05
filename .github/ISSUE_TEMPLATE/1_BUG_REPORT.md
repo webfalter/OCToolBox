@@ -1,6 +1,6 @@
 ---
 name: "🐛 Bug Report"
-about: 'Report a general POCToolBox issue'
+about: 'Report a general OCToolBox issue'
 labels: 'Status: Review Needed, Type: Unconfirmed Bug'
 ---
 

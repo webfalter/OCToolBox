@@ -17,16 +17,16 @@
 ### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 ### [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) 
 
-## Next Beta v0.8.8
+## Next Beta v0.9.4
 | Menü | | | |
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
-| SMBios | | | | |
-| Security | Scan Policy |  ~~OpenCore Menu Password~~ | Vault |
-| Expose Sensitive Data |  | | | |
-| Picker Attributes |  | | | |
-| Target | | | | |
-| SIP | | | | |
-| OpenLinuxBoot | | | | |
+| SMBios | | | | 
+| Security | Scan Policy | Vault | ~~OpenCore Menu Password~~ |
+| Picker Attributes | | | | 
+| Expose Sensitive Data |  | | | 
+| Default | Target | DisplayLevel | | 
+| SIP | | | |
+| OpenLinuxBoot | | | |
 | Device | Audio| Grafik | |
 
 ## Credits

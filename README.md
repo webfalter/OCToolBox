@@ -34,4 +34,5 @@
 * [Entwicklern von gfxutil](https://github.com/acidanthera/gfxutil)
 * [Entwicklern von macserial](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/macserial)
 * Cobanramo Hackintosh-Forum für die Idee und Excel Datei
+* ITzTravelInTime für TINURecovery
 * The OSx86-Gang beim Input & fleißigen Testen

@@ -24,7 +24,7 @@
 | Security | Scan Policy | Vault | ~~OpenCore Menu Password~~ |
 | Picker Attributes | | | | 
 | Expose Sensitive Data |  | | | 
-| Default | Target | DisplayLevel | | 
+| Debug | Target | DisplayLevel | | 
 | SIP | | | |
 | OpenLinuxBoot | | | |
 | Device | Audio| Grafik | |

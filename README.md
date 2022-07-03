@@ -20,14 +20,16 @@
 ## Next Beta v0.9.4
 | Menü | | | |
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
-| SMBios | | | | 
-| Security | Scan Policy | Vault | ~~OpenCore Menu Password~~ |
-| Picker Attributes | | | | 
-| Expose Sensitive Data |  | | | 
 | Debug | Target | DisplayLevel | | 
-| SIP | | | |
-| OpenLinuxBoot | | | |
 | Device | Audio| Grafik | |
+| OpenLinuxBoot | | | |
+| Picker Attributes | | | | 
+| Security | Scan Policy | Vault | ~~OpenCore Menu Password~~ |
+| Expose Sensitive Data |  | | | 
+| SMBios | | | |
+| SIP | | | |
+
+
 
 ## Credits
 * [Entwicklern von OpenCore](https://github.com/acidanthera) & [Clover](https://github.com/CloverHackyColor/CloverBootloader)

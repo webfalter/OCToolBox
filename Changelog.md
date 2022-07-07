@@ -1,5 +1,53 @@
 OCToolBox Changelog
 ==================
+
+#### v.0.9.4
+- Fixed SIP 0x27F
+- Fixed LinuxBoot
+- Remove Target
+- Added Debug
+- Added Target / DisplayLevel
+
+#### v.0.9.2
+- Fixed #1
+- Fixed SandBox
+- Remove Old Code
+- Updated Sparkle
+
+#### v.0.9.1
+- Fix SMBios
+
+#### v0.9.0
+- Clean Code
+
+#### v0.8.8
+- Updated gfxUtil 1.83b
+- Remove CryptoSwift
+
+#### v0.8.6
+- Added SMBios Style
+- Added SMBios Copy
+- Added SMBios Check Apple
+- Fixed SMBios Model
+- Remove ScanPolicy
+- Added Security to ScanPolicy & CreateVault
+- Added CreateVault
+- Fixed LinuxBoot
+- Added LinuxBoot LINUX_BOOT_ADD_RW OC v0.7.8
+- Added gfxUtil Version Label
+- Updated gfxUtil 1.82b
+
+#### v0.8.4
+- Added Menü Link
+- Added Device to Audio & Grafik
+- Remove Audio
+- Remove isDec.dec0.toDec()
+
+#### v0.8.3
+- Added Sparkle
+- Remove GithubUpdater
+- Added Clipboard
+
 #### v0.8.0
 - Added LinuxBoot
 - Added Audio

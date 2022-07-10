@@ -1,6 +1,13 @@
 OCToolBox Changelog
 ==================
 
+#### v
+- Added Target (unsafe fast file logging OC 0.8.3)
+- Added delet (restore original condition)
+- Added Calculator
+- Fixed takes original values
+- Fixed Target Config Wert BIT1
+
 #### v.0.9.4
 - Fixed SIP 0x27F
 - Fixed LinuxBoot
@@ -9,7 +16,7 @@ OCToolBox Changelog
 - Added Target / DisplayLevel
 
 #### v.0.9.2
-- Fixed #1
+- Fixed [#1](https://github.com/webfalter/OCToolBox/issues/1)
 - Fixed SandBox
 - Remove Old Code
 - Updated Sparkle

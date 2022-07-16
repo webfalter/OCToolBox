@@ -29,6 +29,15 @@
 | SMBios | | | |
 | SIP | | | |
 
+## Quellen
+https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcConfigurationLib.h
+https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcBootManagementLib.h
+https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcBootManagementLib.h
+https://github.com/acidanthera/OpenCorePkg/blob/master/Platform/OpenLinuxBoot/LinuxBootInternal.h
+https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Protocol/OcLog.h
+https://opensource.apple.com/source/xnu/xnu-7195.121.3/bsd/sys/csr.h.auto.html
+https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Apple/IndustryStandard/AppleCsrConfig.h
+https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 
 
 ## Credits

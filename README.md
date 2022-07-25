@@ -9,10 +9,6 @@
 
 ![](./img/info.png)
 
-## Discussion
-- [Hackintosh-Forum.de](https://www.hackintosh-forum.de/forum/thread/54915-octoolbox-problem-und-ideenthread/)
-
-
 ## Supported
 ### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 ### [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) 
@@ -29,9 +25,11 @@
 | Expose Sensitive Data |  | | | 
 | Tools |SMBios |Calculator |Logs |
 
+## Discussion
+- [Hackintosh-Forum.de](https://www.hackintosh-forum.de/forum/thread/54915-octoolbox-problem-und-ideenthread/)
+
 ## Quellen
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcConfigurationLib.h
-https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcBootManagementLib.h
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcBootManagementLib.h
 https://github.com/acidanthera/OpenCorePkg/blob/master/Platform/OpenLinuxBoot/LinuxBootInternal.h
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Protocol/OcLog.h

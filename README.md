@@ -34,6 +34,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Apple/IndustrySta
 https://github.com/acidanthera/OpenCorePkg/blob/master/Platform/OpenLinuxBoot/LinuxBootInternal.h
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Protocol/OcLog.h
 https://opensource.apple.com/source/xnu/xnu-7195.121.3/bsd/sys/csr.h.auto.html
+
 https://github.com/apple/darwin-xnu/blob/main/iokit/Kernel/IOPMrootDomain.cpp#L488
 
 https://dortania.github.io/OpenCore-Post-Install/usb/misc/keyboard.html#method-3-configuring-darkwake ???

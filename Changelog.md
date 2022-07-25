@@ -1,27 +1,40 @@
 OCToolBox Changelog
 ==================
 
-#### v
-- Added Target (unsafe fast file logging OC 0.8.3)
-- Added delet (restore original condition)
-- Added Calculator
+#### v0.9.8
+- Remove ARCHS_STANDARD
+- Added Load config.plist
+- Added Config Wert
+- Added EDK2 DEBUG
+- Remove SIP
+- Added NVRAM
+- Added SIP / Darkwake
+- Added gDarkWakeFlags
+- Added Target OC_LOG_UNSAFE  (OC 0.8.3) 
 - Fixed takes original values
 - Fixed Target Config Wert BIT1
 
-#### v.0.9.4
+#### v0.9.6
+- Added delet (restore original condition)
+- Remove SMBios
+- Added Tools
+- Added SMBios / Calculator / Logs
+- Angleich BITs an OC BITs siehe ReadMe Links
+
+#### v0.9.4
 - Fixed SIP 0x27F
 - Fixed LinuxBoot
 - Remove Target
 - Added Debug
 - Added Target / DisplayLevel
 
-#### v.0.9.2
-- Fixed [#1](https://github.com/webfalter/OCToolBox/issues/1)
+#### v0.9.2
+- Fixed https://github.com/webfalter/OCToolBox/issues/1
 - Fixed SandBox
 - Remove Old Code
 - Updated Sparkle
 
-#### v.0.9.1
+#### v0.9.1
 - Fix SMBios
 
 #### v0.9.0
@@ -39,10 +52,11 @@ OCToolBox Changelog
 - Remove ScanPolicy
 - Added Security to ScanPolicy & CreateVault
 - Added CreateVault
-- Fixed LinuxBoot
+- Fixed [LinuxBoot](https://www.hackintosh-forum.de/forum/thread/54915-octoolbox-problem-und-ideenthread/?postID=732776#post732776)
 - Added LinuxBoot LINUX_BOOT_ADD_RW OC v0.7.8
 - Added gfxUtil Version Label
 - Updated gfxUtil 1.82b
+
 
 #### v0.8.4
 - Added Menü Link

@@ -17,17 +17,17 @@
 ### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 ### [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) 
 
-## Next Beta v0.9.4
+## Next Beta v0.9.8
 | Menü | | | |
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
-| Debug | Target | DisplayLevel | | 
-| Device | Audio| Grafik | |
+| Debug |Target |DisplayLevel | | 
+| Device |Audio |Grafik | |
 | OpenLinuxBoot | | | |
+| NVRAM |SIP |DarkWake | |
 | Picker Attributes | | | | 
-| Security | Scan Policy | Vault | ~~OpenCore Menu Password~~ |
+| Security |Scan Policy |Vault | ~~OpenCore Menu Password~~ |
 | Expose Sensitive Data |  | | | 
-| SMBios | | | |
-| SIP | | | |
+| Tools |SMBios |Calculator |Logs |
 
 ## Quellen
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcConfigurationLib.h
@@ -37,6 +37,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Platform/OpenLinuxBoot/Li
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Protocol/OcLog.h
 https://opensource.apple.com/source/xnu/xnu-7195.121.3/bsd/sys/csr.h.auto.html
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Apple/IndustryStandard/AppleCsrConfig.h
+https://dortania.github.io/OpenCore-Post-Install/usb/misc/keyboard.html#method-3-configuring-darkwake
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 
 

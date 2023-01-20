@@ -25,7 +25,7 @@
 | Tools |SMBios |Calculator |Logs |
 
 ## Discussion
-- [Hackintosh-Forum.de](https://www.hackintosh-forum.de/forum/thread/54915-octoolbox-problem-und-ideenthread/)
+- 
 
 ## Quellen
 https://github.com/acidanthera/OpenCorePkg/blob/master/Include/Acidanthera/Library/OcConfigurationLib.h

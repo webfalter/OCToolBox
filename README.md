@@ -13,7 +13,7 @@
 ### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) 
 
 ## Next Version v1.0.0
-| Menü | | | |
+| Menü | | | | | 
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
 | Debug |Target |DisplayLevel | | | 
 | Patch |Audio |Grafik |Framebuffer |Connectors |

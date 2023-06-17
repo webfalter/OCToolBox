@@ -23,6 +23,7 @@
 | Security |Scan Policy |Vault |~~OpenCore Menu Password~~ | |
 | Expose Sensitive Data |  | | |  |
 | Tools |SMBios |~~Calculator~~ |~~Logs~~ | |
+| Kext |HibernationFixup | | | |
 
 ## Discussion
 - 

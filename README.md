@@ -10,7 +10,7 @@
 ![](./img/info.png)
 
 ## Supported
-### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) 
+### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.0.0+-informational.svg)](https://www.apple.com/macos) 
 
 ## Next Version v1.0.0
 | Menü | | | | | 
@@ -45,6 +45,6 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 * [Entwicklern von OpenCore](https://github.com/acidanthera) & [Clover](https://github.com/CloverHackyColor/CloverBootloader)
 * [Entwicklern von gfxutil](https://github.com/acidanthera/gfxutil)
 * [Entwicklern von macserial](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/macserial)
-* Cobanramo Hackintosh-Forum für die Idee und Excel Datei
+* [Cobanramo](https://github.com/CobanRamo) für die Idee und Excel Datei zur SIP
 * ITzTravelInTime für TINURecovery
 * The OSx86-Gang beim Input & fleißigen Testen

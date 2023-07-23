@@ -1,6 +1,9 @@
 OCToolBox Changelog
 ==================
-
+#### v1.0.2
+- Fixed Clear Display
+- Added StartupPowerEvents
+  
 #### v1.0.0
 - Fixed #6
 - Added Endian Input length

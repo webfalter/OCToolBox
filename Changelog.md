@@ -1,7 +1,9 @@
 OCToolBox Changelog
 ==================
 #### v1.0.2
+- Fixed SIP
 - Fixed Clear Display
+- Added validateNumber
 - Added StartupPowerEvents
   
 #### v1.0.0
@@ -12,6 +14,7 @@ OCToolBox Changelog
 - Added #4
 - Added #5
 - Remove Beta v.
+- Updated Sparkle
 
 #### v0.9.8
 - Remove ARCHS_STANDARD

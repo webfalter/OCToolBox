@@ -19,11 +19,11 @@
 | Patch |Audio |Grafik |Framebuffer |Connectors |
 | OpenLinuxBoot | | | | |
 | NVRAM |SIP |DarkWake | | |
-| Picker Attributes | | | |  |
-| Security |Scan Policy |Vault |~~OpenCore Menu Password~~ | |
-| Expose Sensitive Data |  | | |  |
-| Tools |SMBios |~~Calculator~~ |~~Logs~~ | |
-| Kext |HibernationFixup | | | |
+| Picker Attributes | | | | |
+| Security |Scan Policy |Vault | | |
+| Expose Sensitive Data | | | |  |
+| PlattformInfo |SMBios |StartupPowerEvents |~~Calculator~~ | | 
+| Kext |HibernationFixup |AMFI | | |
 
 ## Discussion
 - 

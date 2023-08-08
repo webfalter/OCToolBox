@@ -7,3 +7,7 @@ OCToolBox - Calculate Tool for OpenCore config.plist
 #### Info
 
 ![](./images/Info.png)
+
+#### SIP
+
+![](./images/Sip.png)

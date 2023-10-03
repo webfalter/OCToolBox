@@ -4,7 +4,9 @@ OCToolBox Changelog
 - Fixed LinuxBoot
 - Added Default Wert LinuxBoot
 - Added Load LinuxBoot
+- Added Kext BootArgs
 - 
+
 #### v1.0.2
 - Fixed SIP
 - Fixed Clear Display

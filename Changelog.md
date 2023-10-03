@@ -1,5 +1,10 @@
 OCToolBox Changelog
 ==================
+#### v1.0.4
+- Fixed LinuxBoot
+- Added Default Wert LinuxBoot
+- Added Load LinuxBoot
+- 
 #### v1.0.2
 - Fixed SIP
 - Fixed Clear Display

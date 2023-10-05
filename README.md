@@ -48,5 +48,5 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 * [Entwicklern von macserial](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/macserial)
 * [Cobanramo](https://github.com/CobanRamo) für die Idee und Excel Datei zur SIP
 * [ITzTravelInTime](https://github.com/ITzTravelInTime) für TINURecovery
-* [Steffan Andrews](https://github.com/orchetect) für seine Tools
+* [Steffan Andrews](https://github.com/orchetect) für seine Swift Tools
 * The OSx86-Gang beim Input & fleißigen Testen

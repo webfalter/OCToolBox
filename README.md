@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/webfalter/OCToolBox?include_prereleases=&sort=semver&color=blue)](https://github.com/webfalter/OCToolBox/releases/)
 [![download-badge](https://img.shields.io/github/downloads/webfalter/OCToolBox/total.svg?style=flat-square "Download status")](https://github.com/webfalter/OCToolBox/releases/latest "Download status")
 -----
-[![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg)](https://www.paypal.com/paypalme/webfalter)
+[![Donate](https://img.shields.io/badge/-SpendeBuy%20me%20a%20coffee-orange.svg)](https://www.paypal.com/paypalme/webfalter)
 -----
 
 ### Calculate Tool for OpenCore

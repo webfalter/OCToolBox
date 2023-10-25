@@ -2,6 +2,7 @@ OCToolBox Changelog
 ==================
 #### v1.0.4
 - Fixed LinuxBoot
+- Fixed DarkWake
 - Added Default Wert LinuxBoot
 - Added Load LinuxBoot
 - Added Kext BootArgs

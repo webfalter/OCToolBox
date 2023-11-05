@@ -3,10 +3,11 @@ OCToolBox Changelog
 #### v1.0.4
 - Fixed LinuxBoot
 - Fixed DarkWake
+- Fixed https://github.com/webfalter/OCToolBox/issues/7
 - Added Default Wert LinuxBoot
 - Added Load LinuxBoot
 - Added Kext BootArgs
-- 
+- Added Write plist
 
 #### v1.0.2
 - Fixed SIP

@@ -16,12 +16,12 @@ OCToolBox Changelog
 - Added StartupPowerEvents
   
 #### v1.0.0
-- Fixed #6
 - Added Endian Input length
 - Fixed SIP
-- Fixed #3
-- Added #4
-- Added #5
+- Fixed https://github.com/webfalter/OCToolBox/issues/3
+- Added https://github.com/webfalter/OCToolBox/issues/4
+- Added https://github.com/webfalter/OCToolBox/issues/5
+- Fixed https://github.com/webfalter/OCToolBox/issues/6
 - Remove Beta v.
 - Updated Sparkle
 

@@ -16,7 +16,7 @@
 ## Next Version v1.0.4
 | Menü | | | | | 
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
-| Debug |Target |DisplayLevel | | | 
+| Debug |Target |Display & HaltLevel | | | 
 | Patch |Audio |Grafik |Framebuffer |Connectors |
 | OpenLinuxBoot | | | | |
 | NVRAM |SIP |DarkWake | | |

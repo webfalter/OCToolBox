@@ -4,6 +4,7 @@ OCToolBox Changelog
 - Fixed LinuxBoot
 - Fixed DarkWake
 - Fixed https://github.com/webfalter/OCToolBox/issues/7
+- Added HaltLevel
 - Added Default Wert LinuxBoot
 - Added Load LinuxBoot
 - Added Kext BootArgs

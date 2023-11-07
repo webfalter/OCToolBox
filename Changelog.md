@@ -10,6 +10,8 @@ OCToolBox Changelog
 - Added Kext BootArgs
 - Added Write plist
 - Fixed Info Text & Legende Write
+- Fixed Label Bit31 DisplayLevel
+- Added SwiftyJSON
 
 #### v1.0.2
 - Fixed SIP

@@ -1,23 +1,29 @@
 OCToolBox Changelog
 ==================
+#### v1.0.6
+- Added Write anonym Serial
+- Added Einstellung Config
+
 #### v1.0.4
 - Fixed LinuxBoot
 - Fixed DarkWake
 - Fixed https://github.com/webfalter/OCToolBox/issues/7
+- Fixed Info Text & Legende Write
+- Fixed Label Bit31 DisplayLevel
 - Added HaltLevel
 - Added Default Wert LinuxBoot
 - Added Load LinuxBoot
 - Added Kext BootArgs
-- Added Write plist
-- Fixed Info Text & Legende Write
-- Fixed Label Bit31 DisplayLevel
+- Added Write config.plist
 - Added SwiftyJSON
+- Updated PlistKit
 
 #### v1.0.2
 - Fixed SIP
 - Fixed Clear Display
 - Added validateNumber
 - Added StartupPowerEvents
+- Added PlistKit
   
 #### v1.0.0
 - Added Endian Input length

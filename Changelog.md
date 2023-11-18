@@ -3,6 +3,7 @@ OCToolBox Changelog
 #### v1.0.6
 - Added Write anonym Serial
 - Added Einstellung Config
+- Fixed https://github.com/orchetect/PListKit/discussions/9
 
 #### v1.0.4
 - Fixed LinuxBoot

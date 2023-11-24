@@ -1,7 +1,7 @@
 OCToolBox Changelog
 ==================
 #### v1.0.8
--
+- Added Check/Load/Write layout-id
 
 #### v1.0.6
 - Added Write anonym Serial

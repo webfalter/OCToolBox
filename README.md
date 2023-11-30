@@ -9,10 +9,45 @@
 #### Wer mir ein kleines Dankeschön senden möchte, kann das über PayPal tun: [Spende](https://www.paypal.com/paypalme/webfalter)
 
 ### Calculate Tool for OpenCore
-
 ![](./img/info.png)
 
-## Next Version v1.0.6
+Lengende mit Symbolen die sich durch jeden Tab ziehen
+## Beispiel Anhand Target
+### mit Hand
+![](./img/variante_4.png)
+1. Wert bestimmen 
+2. Click berechnen
+### Default (nach Vorgabe)
+![](./img/variante_3.png)
+1. Click Default Wert
+2. Wert lassen oder ändern 
+3. Click berechnen
+### mit Wert
+![](./img/variante_5.png)
+1. Wert eintragen
+2. Click Wert prüfen (rot/grün)
+3. Wert lassen oder ändern 
+4. Click berechnen
+### mit Config.plist
+![](./img/variante_6.png)
+1. Config Wert laden (nur bei geladener plist)
+2. Click Wert prüfen (rot/grün)
+3. Wert lassen oder ändern  
+4. Click berechnen
+###Zusätzlich
+# Löschen
+![](./img/variante_1.png)
+1. Löscht alle Eingaben
+# Kopieren
+![](./img/variante_7.png)
+1. Berecneter Wert
+2. Lädt Wert in die Zwischenablage
+# Schreiben
+![](./img/variante_2.png)
+1. Berecneter Wert
+2. Schreibt bei geladener plist 
+
+## Next Version v1.0.8
 | Menü | | | | | 
 | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
 | Debug |Target |Display & HaltLevel | | | 

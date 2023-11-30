@@ -34,18 +34,19 @@ Lengende mit Symbolen die sich durch jeden Tab ziehen
 2. Click Wert prüfen (rot/grün)
 3. Wert lassen oder ändern  
 4. Click berechnen
+   
 ###Zusätzlich
 # Löschen
 ![](./img/variante_1.png)
 1. Löscht alle Eingaben
 # Kopieren
 ![](./img/variante_7.png)
-1. Berecneter Wert
+1. Berechneter Wert
 2. Lädt Wert in die Zwischenablage
 # Schreiben
 ![](./img/variante_2.png)
-1. Berecneter Wert
-2. Schreibt bei geladener plist 
+1. Berechneter Wert
+2. Click Schreibt bei geladener plist 
 
 ## Next Version v1.0.8
 | Menü | | | | | 

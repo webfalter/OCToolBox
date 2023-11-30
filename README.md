@@ -35,15 +35,15 @@ Lengende mit Symbolen die sich durch jeden Tab ziehen
 3. Wert lassen oder ändern  
 4. Click berechnen
    
-###Zusätzlich
-# Löschen
+## Zusätzlich
+### Löschen
 ![](./img/variante_1.png)
 1. Löscht alle Eingaben
-# Kopieren
+### Kopieren
 ![](./img/variante_7.png)
 1. Berechneter Wert
 2. Lädt Wert in die Zwischenablage
-# Schreiben
+### Schreiben
 ![](./img/variante_2.png)
 1. Berechneter Wert
 2. Click Schreibt bei geladener plist 

@@ -2,6 +2,8 @@ OCToolBox Changelog
 ==================
 #### v1.0.8
 - Added Check/Load/Write layout-id
+- Added PickerAttributes OC_ATTR_USE_REVERSED_UI https://github.com/webfalter/OCToolBox/issues/8
+- Added PickerAttributes OC_ATTR_REDUCE_MOTION https://github.com/webfalter/OCToolBox/issues/9
 
 #### v1.0.6
 - Added Write anonym Serial

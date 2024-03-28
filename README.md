@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/webfalter/OCToolBox?include_prereleases=&sort=semver&color=blue)](https://github.com/webfalter/OCToolBox/releases/)
 [![download-badge](https://img.shields.io/github/downloads/webfalter/OCToolBox/total.svg?style=flat-square "Download status")](https://github.com/webfalter/OCToolBox/releases/latest "Download status")
-[![Github Releases (by release)](https://img.shields.io/github/downloads/webfalter/OCToolBox/v1.0.8/total.svg)](https://GitHub.com/webfalter/OCToolBox/releases/)
+[![Github Releases (by release)](https://img.shields.io/github/downloads/webfalter/OCToolBox/1.0.8/total.svg)](https://GitHub.com/webfalter/OCToolBox/releases/)
 ## Supported
 ### [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.4+-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.0.0+-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.0.0+-informational.svg)](https://www.apple.com/macos)
 

@@ -1,7 +1,7 @@
 # OCToolBox
 [![GitHub release](https://img.shields.io/github/release/webfalter/OCToolBox?include_prereleases=&sort=semver&color=blue)](https://github.com/webfalter/OCToolBox/releases/)
-[![Github Releases (by release)](https://img.shields.io/github/downloads/webfalter/OCToolBox/1.1.0/total.svg)](https://GitHub.com/webfalter/OCToolBox/releases/)
 [![Github Releases (by release)](https://img.shields.io/github/downloads/webfalter/OCToolBox/1.1.2/total.svg)](https://GitHub.com/webfalter/OCToolBox/releases/)
+[![Github Releases (by release)](https://img.shields.io/github/downloads/webfalter/OCToolBox/1.1.4/total.svg)](https://GitHub.com/webfalter/OCToolBox/releases/)
 [![download-badge](https://img.shields.io/github/downloads/webfalter/OCToolBox/total.svg?style=flat-square "Download status")](https://github.com/webfalter/OCToolBox/releases/latest "Download status")
 #### If you would like to send me a small thank you, you can do so via PayPal: [Spende](https://www.paypal.com/paypalme/webfalter)
 #### Wer mir ein kleines Dankeschön senden möchte, kann das über PayPal tun: [Spende](https://www.paypal.com/paypalme/webfalter)
